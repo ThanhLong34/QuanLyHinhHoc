@@ -1,0 +1,10 @@
+HT 3
+HT 3
+HT 2
+HV 4
+HT 7
+HV 10
+HV 9
+HT 6
+HV 6
+HV 8

@@ -1,0 +1,7 @@
+C:\Users\Thanh Long\Desktop\Project 2019\QuanLyHinhHoc\QuanLyHinhHoc\bin\Debug\QuanLyHinhHoc.exe.config
+C:\Users\Thanh Long\Desktop\Project 2019\QuanLyHinhHoc\QuanLyHinhHoc\bin\Debug\QuanLyHinhHoc.exe
+C:\Users\Thanh Long\Desktop\Project 2019\QuanLyHinhHoc\QuanLyHinhHoc\bin\Debug\QuanLyHinhHoc.pdb
+C:\Users\Thanh Long\Desktop\Project 2019\QuanLyHinhHoc\QuanLyHinhHoc\obj\Debug\QuanLyHinhHoc.csproj.AssemblyReference.cache
+C:\Users\Thanh Long\Desktop\Project 2019\QuanLyHinhHoc\QuanLyHinhHoc\obj\Debug\QuanLyHinhHoc.csproj.CoreCompileInputs.cache
+C:\Users\Thanh Long\Desktop\Project 2019\QuanLyHinhHoc\QuanLyHinhHoc\obj\Debug\QuanLyHinhHoc.exe
+C:\Users\Thanh Long\Desktop\Project 2019\QuanLyHinhHoc\QuanLyHinhHoc\obj\Debug\QuanLyHinhHoc.pdb
